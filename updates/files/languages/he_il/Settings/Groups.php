@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_ADD_USERS_ROLES' => 'הוסף משתמשים, תפקידים ...',
 	'LBL_DUPLICATES_EXIST' => 'שם קבוצה כבר קיים',
 	'LBL_GROUP_MEMBERS' => 'חברי קבוצה',

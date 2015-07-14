@@ -15,7 +15,7 @@ $languageStrings = [
 	'LBL_ENTER_BOOKMARK_NAME' => 'נא להזין שם Bookmark',
 	'LBL_ENTER_URL' => 'הזן כתובת אתר (www.example.com)',
 	'LBL_OUR_SITES_LIST' => 'רשימת האתרים שלנו',
-	'LBL_RECORD_DELETED_SUCCESSFULLY' => 'השיא נמחק בהצלחה',
+	'LBL_RECORD_DELETED_SUCCESSFULLY' => 'הרשומה נמחקה בהצלחה',
 	'Portal' => 'האתרים שלנו',
 	'SINGLE_Portal' => 'האתר שלנו',
 ];

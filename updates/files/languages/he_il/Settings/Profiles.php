@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
 	'LBL_VIEW_PRVILIGE' => 'צפה ב',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_CHOOSE_PROFILES' => 'בחר פרופילים',
 	'LBL_CREATE_PROFILE' => 'צור פרופיל',
 	'LBL_DELETE_PROFILE' => 'מחיקת פרופיל',
@@ -35,7 +35,7 @@ $languageStrings = [
 	'Import' => 'יבוא',
 	'Export' => 'יצוא',
 	'Merge' => 'מיזוג',
-	'ConvertLead' => 'המרת עופרת',
+	'ConvertLead' => 'המרת ליד',
 	'DuplicatesHandling' => 'כפילויות טיפול',
 	'ReceiveIncomingCalls' => 'לקבל שיחות נכנסות',
 	'MakeOutgoingCalls' => 'לבצע שיחות יוצאות',

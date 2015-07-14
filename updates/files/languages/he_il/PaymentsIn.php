@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'PaymentsIn' => 'תשלומים ב',
+	'PaymentsIn' => 'תשלומים נכנסים',
 	'SINGLE_PaymentsIn' => 'תשלום ב',
 	'LBL_MAIN_INFORMATION' => 'מידע בסיסי',
 	'LBL_PAYMENT_INFORMATION' => 'פרטי תשלום',
@@ -13,7 +13,7 @@ $languageStrings = [
 	'LBL_RELATEDID' => 'קשור ל',
 	'LBL_SALESID' => 'חשבונית / הזמנה',
 	'LBL_PAYMENTSNAME' => 'שם תשלום',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_RECORDS_LIST' => 'רשימה רשומות',
 	'LBL_PARENTID' => 'תשלום הורה ב',
 	'Denied' => 'נדחה',

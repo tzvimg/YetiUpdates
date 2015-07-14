@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_ADD_TO' => 'להוסיף ל',
 	'LBL_EDIT_LIST_PRICE' => 'ערוך רשימת מחיר',
 	'LBL_PRICEBOOK_INFORMATION' => 'מחיר ספר פרטים',

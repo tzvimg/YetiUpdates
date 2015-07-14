@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'OSSCosts' => 'עלויות',
 	'SINGLE_OSSCosts' => 'עלות',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_RECORDS_LIST' => 'עלויות',
 	'LBL_INFORMATION' => 'מידע מותאם אישית',
 	'LBL_ADDRESS_INFORMATION' => 'כתובת ראשית',

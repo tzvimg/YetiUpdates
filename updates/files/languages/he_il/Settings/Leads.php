@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'Leads' => 'הובלות',
+	'Leads' => 'לידים',
 	'LBL_OPPURTUNITIES' => 'הזדמנויות',
 	'checkBox' => 'תיבת סימון',
 	'currency' => 'מטבע',
@@ -9,7 +9,7 @@ $languageStrings = [
 	'email' => 'דוא"ל',
 	'LBL_ADD_MAPPING' => 'להוסיף מיפוי',
 	'LBL_CONTACTS' => 'מגעים',
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'המרת מיפוי עופרת',
+	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'המרת מיפוי ליד',
 	'LBL_DELETED_SUCCESSFULLY' => 'נמחק בהצלחה',
 	'LBL_FIELD_LABEL' => 'תווית שדה',
 	'LBL_FIELD_TYPE' => 'סוג שדה',

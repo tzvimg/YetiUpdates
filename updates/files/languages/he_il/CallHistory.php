@@ -2,8 +2,8 @@
 $languageStrings = [ 
 	'CallHistory' => 'היסטוריית שיחות',
 	'SINGLE_CallHistory' => 'היסטוריית שיחות',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
-	'LBL_RECORDS_LIST' => 'שיא רשימה',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
+	'LBL_RECORDS_LIST' => 'רשימת רשומות',
 	'LBL_CALLHISTORY_INFORMATION' => 'מידע היסטוריית שיחות',
 	'LBL_CUSTOM_INFORMATION' => 'מידע נוסף',
 	'LBL_PHONE_INFORMATION' => 'מידע טלפון',

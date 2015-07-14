@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
 	'Selected Values' => 'ערכים שנבחרו',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'PickListDependency' => 'PickList תלות',
 	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'ערכי picklist ממופים רק של שדה המקור שנראים בהמשך (פרט לפעם ראשונה)',
 	'LBL_CONFIGURE_DEPENDENCY_HELP_2' => 'אם אתה רוצה לראות או לשנות את המיפוי לערכי picklist האחרים של שדה המקור, <br/> אז אתה יכול לבחור את הערכים על ידי לחיצה על <b> </ b> "ערכי מקור בחירה \'בצד ימין',

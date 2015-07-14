@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'OSSMailView' => 'דוא"ל ארגוני',
 	'SINGLE_OSSMailView' => 'דואר אלקטרוני של חברה',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_RECORDS_LIST' => 'רשימה של מיילים',
 	'LBL_INFORMATION' => 'מידע כללי',
 	'relatedid' => 'קשור ל',

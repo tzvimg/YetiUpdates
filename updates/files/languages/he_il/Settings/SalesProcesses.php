@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
 	'LBL_SALES_PROCESSES' => 'תהליכי מכירות',
-	'LBL_SALES_PROCESSES_DESCRIPTION' => '#VALUE!',
+	'LBL_SALES_PROCESSES_DESCRIPTION' => '',
 	'LBL_LIMIT_PRODUCT_AND_SERVICE' => 'מאפשר לבחור מרשימת מוצרים רק אלה הקשורים לנבחרו oportunity. סיפק ל: חישובים, הצעות מחיר, הזמנות ומכירות חשבוניות.',
 	'LBL_PRODUCTS_AND_SERVICES_POPUP' => 'מוצרים ושירותי רשימת בחירה',
 	'LBL_UPDATE_SHARED_PERMISSIONS' => 'עדכוני שיתוף הרשאות ממוצר / שירות בהזדמנות כאשר יחס בין ההזדמנות ומוצר / שירות נוצר.',

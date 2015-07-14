@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'OSSPasswords' => 'סיסמאות',
 	'SINGLE_OSSPasswords' => 'סיסמא',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_RECORDS_LIST' => 'רשימת סיסמאות',
 	'LBL_PASS_CONFIGURATION' => 'סיסמאות תצורה',
 	'LBL_HELP' => 'עזרה',

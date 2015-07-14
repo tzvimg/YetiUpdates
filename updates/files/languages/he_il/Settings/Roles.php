@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_ALL_USERS' => 'כל המשתמשים',
 	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'הקצאת הרשאות מפרופילים קיימים',
 	'LBL_ASSIGN_NEW_PRIVILEGES' => 'הקצאת הרשאות ישירות לתפקיד',

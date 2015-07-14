@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
 	'SINGLE_ProjectMilestone' => 'פרויקט מיילסטון',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_RECORDS_LIST' => 'רשימת אבני דרך של פרויקט',
 	'LBL_PROJECT_MILESTONE_INFORMATION' => 'פרויקט Milestone פרטים',
 	'LBL_PROJECTS_LIST' => 'רשימת פרויקטים',

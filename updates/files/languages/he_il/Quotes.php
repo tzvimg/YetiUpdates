@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'LBL_GENERATE_QUOTES' => 'צור ציטוטים',
 	'Inventory Manager' => 'מנהל המלאי',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_EXPORT_TO_PDF' => 'יצוא ל- PDF',
 	'LBL_QUOTE_INFORMATION' => 'פרטי ציטוט',
 	'LBL_RECORDS_LIST' => 'רשימת ציטוטים',
@@ -14,7 +14,7 @@ $languageStrings = [
 	'Shipping' => 'משלוח',
 	'Total time [h]' => 'סה"כ זמן [ח]',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => ') הוסר מהמערכת. נסה להחליף אותו עם מוצר / שירות שונה.',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'מוצר / שירות הוסר מהמערכת. הסר אותו משיא.',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'מוצר / שירות הוסר מהמערכת. הסר אותו מהרשומה.',
 	'LBL_THIS' => 'מוצר / שירות (',
 	'Form of payment' => 'צורת תשלום',
 	'Transfer' => 'העברה',

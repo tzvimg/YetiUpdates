@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_BALANCE' => 'מאזן',
 	'LBL_COPY_BILLING_ADDRESS' => 'כתובת חיוב עותק',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'כתובת משלוח עותק',
@@ -18,7 +18,7 @@ $languageStrings = [
 	'SINGLE_PurchaseOrder' => 'הזמנה',
 	'Tracking Number' => 'מספר מעקב',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => ') הוסר מהמערכת. נסה להחליף אותו עם מוצר / שירות שונה.',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'מוצר / שירות הוסר מהמערכת. הסר אותו משיא.',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'מוצר / שירות הוסר מהמערכת. הסר אותו מהרשומה.',
 	'LBL_THIS' => 'מוצר / שירות (',
 	'SINGLE_Vendors' => 'ספק',
 ];

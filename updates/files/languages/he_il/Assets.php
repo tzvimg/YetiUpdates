@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'Assets' => 'נכסים',
 	'SINGLE_Assets' => 'נכס',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_RECORDS_LIST' => 'רשימת נכסים',
 	'LBL_ASSET_INFORMATION' => 'נכס פרטים',
 	'Asset No' => 'נכס לא',

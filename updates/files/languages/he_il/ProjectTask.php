@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'SINGLE_ProjectTask' => 'פרויקט משימה',
 	'Project Task' => 'משימות פרויקט',
-	'LBL_ADD_RECORD' => 'להוסיף שיא',
+	'LBL_ADD_RECORD' => 'הוסף רשומה',
 	'LBL_RECORDS_LIST' => 'פרויקט רשימת משימות',
 	'Start Date' => 'תאריך ההתחלה',
 	'Target End Date' => 'תאריך היעד סופי',
@@ -24,7 +24,7 @@ $languageStrings = [
 	'In Progress' => 'בתהליך',
 	'Open' => 'פתוח',
 	'Completed' => 'הושלם',
-	'Deferred' => 'נדחים',
+	'Deferred' => 'נדחה',
 	'Cancelled' => 'בוטל',
 	'administrative' => 'פנימי',
 	'operative' => 'חיצוני',
