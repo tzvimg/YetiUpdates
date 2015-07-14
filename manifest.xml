@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <module>
     <exporttime>2015-01-28 17:28:36</exporttime>
-    <name>My Update package</name>
+    <name>Merling Update package</name>
     <label>My Update package</label>
 	<parent></parent>
 	<type>update</type>
