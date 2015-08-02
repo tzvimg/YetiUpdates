@@ -124,6 +124,9 @@ class YetiForceUpdate{
 		'layouts/vlayout/skins/login.css',
 		'layouts/vlayout/skins/twilight/style.css',
 		'libraries/bootstrap/css/bootstrap.css',
+		
+		// reminder
+		'cron/SendReminder.service',
 	);
 
 	function YetiForceUpdate($modulenode) {
