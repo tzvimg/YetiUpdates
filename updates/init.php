@@ -127,6 +127,9 @@ class YetiForceUpdate{
 		
 		// reminder
 		'cron/SendReminder.service',
+		
+		// mail
+		'modules/Emails/mail.php',
 	);
 
 	function YetiForceUpdate($modulenode) {
