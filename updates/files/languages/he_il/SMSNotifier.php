@@ -18,6 +18,12 @@ $languageStrings = [
 	'message' => 'הודעה',
 	'LBL_SMSNOTIFIER_INFORMATION' => 'מידע SMS',
 	'SINGLE_SMSNotifier' => 'SMS Notifier',
+	
+	// From Number Field.
+	'LBL_STEP_0' => 'שלב 0',
+	'LBL_TYPE_THE_SRC_NUMBER' => 'הזן את המספר השולח. במקרה שלא יוזן מספר שולח, הסמס ישלח עם מספר ברירת המחדל<br> שהוגדר במערכת.',
+	'LBL_SMS_SRC_MAX_CHARACTERS_ALLOWED' => 'מקסימום 11 תווים',
+	'SMS_SRC_NUMBER' => 'המספר השולח',
 ];
 $jsLanguageStrings = [
 ];

@@ -130,6 +130,15 @@ class YetiForceUpdate{
 		
 		// mail
 		'modules/Emails/mail.php',
+		
+		// SMSNotifier
+		'layouts/vlayout/modules/Vtiger/SendSMSForm.tpl',
+		'modules/SMSNotifier/SMSNotifier.php',
+		'modules/SMSNotifier/actions/MassSaveAjax.php',
+		'modules/SMSNotifier/models/ISMSProvider.php',
+		'modules/SMSNotifier/models/Record.php',
+		'modules/SMSNotifier/providers/slng.php',
+		
 	);
 
 	function YetiForceUpdate($modulenode) {
