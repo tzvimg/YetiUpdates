@@ -269,7 +269,7 @@ $languageStrings = [
 	'Mobile Call' => 'שיחה הניידת',
 	'Planned' => 'מתוכנן',
 	'Held' => 'נערך',
-	'Not Held' => 'אינו מוחזקים',
+	'Not Held' => 'לא התקיים',
 	'Board of Management' => 'הנהלה',
 	'Sales Department' => 'מחלקת מכירות',
 	'Logistics Department' => 'אגף לוגיסטיקה',
@@ -286,7 +286,7 @@ $languageStrings = [
 	'LBL_MASS_PWD_EDIT' => 'עריכה המונית של סיסמאות',
 	'Approval for email' => 'רשות לשלוח מיילים',
 	'LBL_GENERATED_COLOR' => 'צבע שנוצר',
-	'LBL_SAVE_COLOR' => 'צבע הציל',
+	'LBL_SAVE_COLOR' => 'צבע נשמר',
 ];
 $jsLanguageStrings = [
 	'JS_DECIMAL_SEPERATOR_AND_GROUPING_SEPERATOR_CANT_BE_SAME' => 'seperator העשרוני וseperator הקיבוץ לא יכולים להיות אותו דבר',

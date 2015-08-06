@@ -1,15 +1,15 @@
 <?php
 $languageStrings = [ 
-	'LBL_VIEW_EDIT2' => 'להוסיף תנאים',
+	'LBL_VIEW_EDIT2' => 'הוסף תנאים',
 	'LBL_NEW_TPL' => 'הוסף מסמך חדש',
-	'OSSDocumentControl' => 'מסמך בקרה',
+	'OSSDocumentControl' => 'בקרת מסמך',
 	'LBL_MODULE_NAME' => 'שם מודול',
 	'LBL_NO_PROJECT_TPL_ADDED' => 'אין מסמכים חדשים שנוספו',
 	'TPL' => 'מסמכים',
 	'OSSProjectTemplates_manual' => 'תבניות פרויקט OSS',
 	'LBL_CREATING_TPL' => 'צור מסמך',
 	'LBL_FILL_BASE_DATA' => 'מידע בסיסי',
-	'ADD_CONDITIONS' => 'להוסיף תנאים',
+	'ADD_CONDITIONS' => 'הוסף תנאים',
 	'LBL_CONDITION_ALL' => 'כל התנאים',
 	'LBL_CONDITION_ALL_DSC' => 'כל התנאים בסעיף זה יש למלא',
 	'LBL_CONDITION_OPTION' => 'כל תנאים',
@@ -30,5 +30,5 @@ $languageStrings = [
 	'LIST_REQ_DOC' => 'נא לצרף את המסמכים הבאים',
 ];
 $jsLanguageStrings = [
-	'LBL_VIEW_EDIT2' => 'להוסיף תנאים',
+	'LBL_VIEW_EDIT2' => 'הוסף תנאים',
 ];

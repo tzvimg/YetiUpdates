@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'LettersOut' => 'דואר יוצא',
 	'SINGLE_LettersOut' => 'דואר יוצא',
-	'LBL_ADD_RECORD' => 'להוסיף דואר יוצא',
+	'LBL_ADD_RECORD' => 'הוסף דואר יוצא',
 	'LBL_RECORDS_LIST' => 'דואר יוצא',
 	'LBL_MAIN_INFORMATION' => 'מידע מכתבים',
 	'Number' => 'מספר',

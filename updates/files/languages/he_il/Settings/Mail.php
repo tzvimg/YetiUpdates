@@ -16,7 +16,7 @@ $languageStrings = [
 	'LBL_AUTOLOGIN_ACTIVE' => 'אפשר התחברות אוטומטית?',
 	'LBL_ADD_SIGNATURE' => 'הפעל תחתון גלובלית לכל הודעות הדוא"ל היוצאים',
 	'LBL_SIGNATURE' => 'חתימה עולמית',
-	'LBL_SAVED_SIGNATURE' => 'חתימה הצילה',
+	'LBL_SAVED_SIGNATURE' => 'חתימה נשמרה',
 	'LBL_VIEW_AUTOLOGIN' => 'התחברות אוטומטית',
 	'LBL_VIEW_CONFIG' => 'תצורה כללית',
 ];

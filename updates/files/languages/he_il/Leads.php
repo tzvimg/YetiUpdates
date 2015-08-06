@@ -88,7 +88,7 @@ $languageStrings = [
 	'Total contacts' => 'מספר אנשי הקשר',
 	'Attention' => 'הערות',
 	'Attorney General\'s Office' => 'משרד היועץ המשפטי לממשלה',
-	'LBL_RELATION' => 'ביחס',
+	'LBL_RELATION' => 'זיקה ל',
 	'LBL_LEGAL_FORM' => 'צורה משפטית',
 ];
 $jsLanguageStrings = [

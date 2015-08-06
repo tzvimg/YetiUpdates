@@ -26,7 +26,7 @@ $languageStrings = [
 	'PLL_IN_PREPARATION' => 'בהכנה',
 	'PLL_SENT_TO_ORGANIZATION' => 'נשלח לארגון',
 	'PLL_DECLINED' => 'נדחה',
-	'PLL_ACCEPTED' => 'קיבלתי',
+	'PLL_ACCEPTED' => 'התקבל',
 ];
 $jsLanguageStrings = [
 	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'אנא הסר פריט השורה שנמחק',

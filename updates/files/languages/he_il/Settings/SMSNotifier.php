@@ -26,5 +26,5 @@ $jsLanguageStrings = [
 	'LBL_SMS_SENDER' => 'שולח',
 	'LBL_DELETE_CONFIRMATION' => 'האם אתה בטוח, שאתה רוצה למחוק SMSNotifier תצורה זו?',
 	'JS_RECORD_DELETED_SUCCESSFULLY' => 'ספק SMS נמחק בהצלחה',
-	'JS_CONFIGURATION_SAVED' => 'תצורות ספק SMS הצילו',
+	'JS_CONFIGURATION_SAVED' => 'תצורות ספק SMS נשמרו',
 ];

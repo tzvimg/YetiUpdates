@@ -31,7 +31,7 @@ $languageStrings = [
 	'PLL_SERVICE_DEVELOPMENT' => 'פיתוח שירות',
 	'PLL_POSSIBILITY_TO_PREPAY' => 'אפשרות לשלם מראש',
 	'PLL_POSSIBILITY_TO_ADJUST' => 'אפשרות להתאים',
-	'PLL_NEW_ORGANIZATION_ORDER' => 'כדי ארגון חדש',
+	'PLL_NEW_ORGANIZATION_ORDER' => 'הזמנת ארגון חדשה',
 ];
 $jsLanguageStrings = [
 ];

@@ -1,6 +1,5 @@
 <?php
 $languageStrings = [ 
-	'QuotesEnquires' => 'ציטוטי חוקרת',
 	'SINGLE_QuotesEnquires' => 'ציטוטי חוקרת',
 	'LBL_QUOTESENQUIRES_INFORMATION' => 'מידע בסיסי',
 	'LBL_CUSTOM_INFORMATION' => 'מידע נוסף',
@@ -16,7 +15,7 @@ $languageStrings = [
 	'PLL_NOT_STARTED' => 'לא התחיל',
 	'PLL_VERIFICATION' => 'אימות',
 	'PLL_DECLINED' => 'נדחה',
-	'PLL_ACCEPTED' => 'קיבלתי',
+	'PLL_ACCEPTED' => 'התקבל',
 	'PLL_LOW_MARGIN' => 'שולי רווח נמוכים',
 	'PLL_UNRELIABLE_CONTRACTOR' => 'ארגון לא אמין',
 	'PLL_UNRELIABLE_PAYMENT' => 'תשלום לא אמין',

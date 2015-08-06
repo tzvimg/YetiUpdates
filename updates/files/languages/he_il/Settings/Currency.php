@@ -148,5 +148,5 @@ $languageStrings = [
 ];
 $jsLanguageStrings = [
 	'JS_CURRENCY_DELETED_SUCCESSFULLY' => 'נמחק מטבע בהצלחה',
-	'JS_CURRENCY_DETAILS_SAVED' => 'מטבע פרטים שמורים',
+	'JS_CURRENCY_DETAILS_SAVED' => 'מטבע פרטים נשמרו',
 ];

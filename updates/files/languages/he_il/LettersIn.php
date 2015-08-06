@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'LettersIn' => 'מכתבים נכנסים',
 	'SINGLE_LettersIn' => 'מכתבים נכנסים',
-	'LBL_ADD_RECORD' => 'להוסיף מכתבים נכנסים',
+	'LBL_ADD_RECORD' => 'הוסף מכתבים נכנסים',
 	'LBL_RECORDS_LIST' => 'מכתבים נכנסים',
 	'LBL_MAIN_INFORMATION' => 'מידע מכתבים',
 	'Number' => 'מספר',

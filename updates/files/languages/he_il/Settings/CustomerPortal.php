@@ -14,5 +14,5 @@ $languageStrings = [
 	'LBL_DRAG_AND_DROP_MESSAGE' => 'מודולים גרור ושחרר כדי לסדר מחדש בפורטל הלקוחות',
 ];
 $jsLanguageStrings = [
-	'JS_PORTAL_INFO_SAVED' => 'הגדרות פורטל לקוחות הצילו',
+	'JS_PORTAL_INFO_SAVED' => 'הגדרות פורטל לקוחות נשמרו',
 ];

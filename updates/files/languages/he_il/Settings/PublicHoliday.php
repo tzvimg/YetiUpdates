@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
 	'PublicHoliday' => 'חגים ציבוריים',
-	'LBL_PUBLIC_HOLIDAY' => 'ציבור נופש',
+	'LBL_PUBLIC_HOLIDAY' => 'חגים כלליים',
 	'LBL_PUBLIC_HOLIDAY_DESCRIPTION' => '',
 	'LBL_ADD_HOLIDAY' => 'להוסיף חג',
 	'LBL_HOLIDAY_LIST' => 'רשימה של חגים',

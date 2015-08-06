@@ -2,7 +2,7 @@
 $languageStrings = [ 
 	'MobileApps' => 'Apps הנייד',
 	'LBL_MOBILE_CALLLISTENER' => 'שיחת מאזין נייד',
-	'LBL_MOBILE_KEYS' => 'מפתחות יישומים ניידים',
+	'LBL_MOBILE_KEYS' => 'מפתחות של יישומים ניידים',
 	'LBL_MOBILE_KEYS_DESCRIPTION' => 'יצירה וניהול של מפתחות יישומים ניידים.',
 	'LBL_USERNAME' => 'משתמש',
 	'LBL_SERVICE' => 'יישום',
@@ -20,9 +20,9 @@ $languageStrings = [
 	'LBL_SUCCESS_SAVE_CHANGES' => 'שינויים נשמרו בהצלחה',
 	'LBL_ALERT_MOBILE_NO_ACTIVE_TITLE' => 'יישום נייד הוא לא פעיל',
 	'LBL_ALERT_MOBILE_NO_ACTIVE_DESC' => 'יישום נייד לא הופעל עדיין, בבקשה לאפשר "נייד" בתצורה / קובץ api.php',
-	'LBL_MOBILE_HISTORYCALL' => 'היסטוריית שיחות הניידת',
+	'LBL_MOBILE_HISTORYCALL' => 'היסטורית שיחות במובייל',
 	'LBL_MOBILE_PUSHCALL' => 'חיוג מספר אוטומטי',
-	'LBL_VIEW_MOBILEKEYS' => 'נייד מפתחות Applikation',
+	'LBL_VIEW_MOBILEKEYS' => 'מפתחות של יישומים ניידים',
 ];
 $jsLanguageStrings = [
 	'Adding a Key' => 'להוסיף מפתח',

@@ -1,6 +1,6 @@
 <?php
 $languageStrings = [ 
-	'No data available in table' => 'אין נתונים זמינים בשולחן',
+	'No data available in table' => 'אין נתונים זמינים בטבלה',
 	'Translations' => 'תרגומים',
 	'Language editor' => 'עורך שפה',
 	'LangManagement' => 'ניהול שפה',
@@ -45,7 +45,7 @@ $languageStrings = [
 	'LBL_DO_NOT_POSSIBLE_TO_MAKE_CHANGES' => 'לא ניתן לבצע שינויים',
 	'LBL_EDIT' => 'צור & עריכה',
 	'LBL_DETAIL' => 'פרטי נוף ונוף סיכום',
-	'LBL_QUICKCREATE' => 'ליצור מהיר',
+	'LBL_QUICKCREATE' => 'יצירה מהירה',
 	'LBL_SHOW_EMPTY_VALUES' => 'הצג ערכים ריקים',
 	'LBL_SHOW_IN' => 'הצג ב',
 	'LBL_EDIT_HELP_ICON' => 'סמלי עזרה',
@@ -57,7 +57,7 @@ $jsLanguageStrings = [
 	'JS_DEFAULT' => 'ברירת מחדל',
 	'Delete' => 'מחק',
 	'Cancel' => 'לבטל',
-	'LBL_Loader' => 'הורדה',
+	'LBL_Loader' => 'מוריד',
 	'No matching records found' => 'לא נמצאתי רשומות תואם נמצא',
 	'Search' => 'חיפוש:',
 	'No data available in table' => 'לא נמצא תרגומים',

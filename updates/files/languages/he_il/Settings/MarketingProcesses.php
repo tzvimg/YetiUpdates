@@ -8,7 +8,7 @@ $languageStrings = [
 	'LBL_VALUES' => 'ערכים',
 	'LBL_GROUPS_INFO' => 'קבוצות ללא מוקצה ל',
 	'LBL_LEAD_STATUS' => 'סטטוסים המצביעים על סוף העבודה עם לידים',
-	'LBL_CURRENTUSER_STATUS' => 'לשנות מוקצה למשתמש שעורך שיא',
+	'LBL_CURRENTUSER_STATUS' => 'לשנות מוקצה למשתמש שעורך רשומה',
 ];
 $jsLanguageStrings = [
 ];

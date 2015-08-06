@@ -1,8 +1,8 @@
 <?php
 $languageStrings = [ 
-	'HideBlocks' => 'בלוקים להסתיר',
-	'LBL_HIDEBLOCKS' => 'בלוקים להסתיר',
-	'LBL_HIDEBLOCKS_DESCRIPTION' => 'ניהול אשר חוסם עם שדות להסתיר',
+	'HideBlocks' => 'הסתר בלוקים',
+	'LBL_HIDEBLOCKS' => 'הסתר בלוקים',
+	'LBL_HIDEBLOCKS_DESCRIPTION' => 'בחר בלוקים עם שדות להסתרה',
 	'LBL_BLOCK_LABEL' => 'בלוק',
 	'LBL_MODULE' => 'מודול',
 	'LBL_ENABLED' => 'פעיל',

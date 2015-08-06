@@ -6,7 +6,7 @@ $languageStrings = [
 	'SINGLE_OSSTimeControl' => 'בקרת זמנים',
 	'OSSTimeControl' => 'בקרת זמנים',
 	'LBL_MAIN_INFORMATION' => 'מידע בסיסי',
-	'LBL_BLOCK' => 'יחסים',
+	'LBL_BLOCK' => 'זיקות',
 	'Payment' => 'תשלום',
 	'LBL_TOTAL_TIME' => 'סה"כ זמן [ח]',
 	'LBL_STATUS' => 'סטטוס',
@@ -50,7 +50,7 @@ $languageStrings = [
 	'Extra cost' => 'עלות נוספת',
 	'LBL_PRODUCT_INFORMATION' => 'מידע תיאור',
 	'To approval' => 'לאישור',
-	'Accepted' => 'קיבלתי',
+	'Accepted' => 'התקבל',
 	'Brutto' => 'גרוס',
 	'Telephone contact' => 'קשר טלפוני',
 	'Email contact' => 'קשר בדוא"ל',
@@ -88,7 +88,7 @@ $languageStrings = [
 	'LBL_WORKDAYS_INFO' => 'ימי עבודה',
 ];
 $jsLanguageStrings = [
-	'MSG_ERROR_NUMBER' => 'תווי מחמד: [0-9]',
+	'MSG_ERROR_NUMBER' => 'תווים מאושרים: [0-9]',
 	'JS_DATE_SHOULD_BE_GREATER_THAN' => 'תאריך סיום לא יכול להיות שווה או פחות מתאריך ההתחלה',
 	'JS_HOURS_SHOULD_BE_SMALLER_THAN' => 'זמן עבודה לא יעלה על 24 שעות',
 ];

@@ -54,5 +54,5 @@ $jsLanguageStrings = [
 	'JS_time' => 'זמן',
 	'JS_url' => 'כתובת אתר',
 	'JS_WITH' => 'עם',
-	'JS_MAPPING_SAVED_SUCCESSFULLY' => 'מיפוי שדה הציל',
+	'JS_MAPPING_SAVED_SUCCESSFULLY' => 'מיפוי שדה נשמר',
 ];

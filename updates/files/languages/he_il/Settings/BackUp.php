@@ -25,7 +25,7 @@ $languageStrings = [
 	'LBL_PATH_INFO' => 'אם שדה הנתיב ריק, גיבוי יישמר בתיקייה הראשית',
 	'LBL_EMAIL_NOTIFICATIONS' => 'הודעות דואר אלקטרוני',
 	'LBL_USERS_FOR_NOTIFICATIONS' => 'משתמשים עבור הודעות',
-	'LBL_SAVE_CHANGES' => 'שינויים שמורים',
+	'LBL_SAVE_CHANGES' => 'שינויים נשמרו',
 	'LBL_GENERAL_SETTINGS' => 'הגדרות כלליות',
 	'LBL_STORAGEFOLDER_INFO' => 'האם אתה רוצה לבצע גיבוי של תיקיית אחסון',
 	'LBL_BACKUPFOLDER_INFO' => 'האם אתה רוצה לבצע גיבוי של תיקיית גיבוי',
@@ -35,7 +35,7 @@ $languageStrings = [
 $jsLanguageStrings = [
 	'JS_MANDATORY_FIELDS_EMPTY' => 'שדות חובה לא יכולים להיות ריקים',
 	'JS_PORT_ONLY_NUMBERS' => 'נמל שדה מקבל מספרים בלבד',
-	'JS_SAVE_CHANGES' => 'שינויים שמורים',
+	'JS_SAVE_CHANGES' => 'שינויים נשמרו',
 	'JS_HOST_NOT_CORRECT' => 'כתובת מארח שגויה',
 	'JS_CONNECTION_FAIL' => 'ניסיון התחברות נכשל',
 ];

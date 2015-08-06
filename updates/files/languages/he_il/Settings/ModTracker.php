@@ -1,7 +1,7 @@
 <?php
 $languageStrings = [ 
-	'ModTracker' => 'היסטורית שינוי',
-	'LBL_MODTRACKER_SETTINGS' => 'היסטורית שינוי',
+	'ModTracker' => 'שינוי היסטוריה',
+	'LBL_MODTRACKER_SETTINGS' => 'שינוי היסטוריה',
 	'LBL_MODTRACKER_SETTINGS_DESCRIPTION' => 'נהל את היסטוריית שינוי במודולים',
 	'LBL_MODULE' => 'מודול',
 	'LBL_ACTIVE' => 'עקוב אחר שינויים',
