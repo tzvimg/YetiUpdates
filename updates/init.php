@@ -139,6 +139,8 @@ class YetiForceUpdate{
 		'modules/SMSNotifier/models/Record.php',
 		'modules/SMSNotifier/providers/slng.php',
 		
+		'modules/Vtiger/helpers/Util.php',
+		
 	);
 
 	function YetiForceUpdate($modulenode) {
